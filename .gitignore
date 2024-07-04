@@ -1,4 +1,5 @@
 /node_modules
 /.pnp
 .pnp.js
+/.husky/.gitignore
 package-lock.json
